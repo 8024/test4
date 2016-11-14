@@ -1,0 +1,12 @@
+﻿  test4.cpp
+c:\users\陈明\documents\visual studio 2015\projects\test4\test4\test4.cpp(445): warning C4715: “Value”: 不是所有的控件路径都返回值
+c:\users\陈明\documents\visual studio 2015\projects\test4\test4\test4.cpp(482): warning C4715: “ParentJudge”: 不是所有的控件路径都返回值
+c:\users\陈明\documents\visual studio 2015\projects\test4\test4\test4.cpp(457): warning C4715: “Assign”: 不是所有的控件路径都返回值
+c:\users\陈明\documents\visual studio 2015\projects\test4\test4\test4.cpp(503): warning C4715: “LeftChildJudge”: 不是所有的控件路径都返回值
+c:\users\陈明\documents\visual studio 2015\projects\test4\test4\test4.cpp(524): warning C4715: “RightChildJudge”: 不是所有的控件路径都返回值
+c:\users\陈明\documents\visual studio 2015\projects\test4\test4\test4.cpp(547): warning C4715: “LeftSibingJudge”: 不是所有的控件路径都返回值
+c:\users\陈明\documents\visual studio 2015\projects\test4\test4\test4.cpp(570): warning C4715: “RightSibingJudge”: 不是所有的控件路径都返回值
+c:\users\陈明\documents\visual studio 2015\projects\test4\test4\test4.cpp(598): warning C4715: “InsertChild”: 不是所有的控件路径都返回值
+c:\users\陈明\documents\visual studio 2015\projects\test4\test4\test4.cpp(699): warning C4715: “Find”: 不是所有的控件路径都返回值
+  test4.vcxproj -> C:\Users\陈明\documents\visual studio 2015\Projects\test4\Debug\test4.exe
+  test4.vcxproj -> C:\Users\陈明\documents\visual studio 2015\Projects\test4\Debug\test4.pdb (Partial PDB)
